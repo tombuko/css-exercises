@@ -1,0 +1,17 @@
+.odd{
+  background-color: pink;
+  font: Verdana, DejaVu Sans, sans-serif ;
+}
+.three{
+  font-size: 30px
+  }
+#two{
+  color: blue;
+  font-size: 36px;
+
+}
+#four{
+  background-color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
